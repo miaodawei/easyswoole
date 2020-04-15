@@ -7,7 +7,7 @@
 .phpunit.result.cache
 Homestead.json
 Homestead.yaml
-npm-debug.log
+npm-debug.logd
 yarn-error.log
 /.idea
 /storage_back
