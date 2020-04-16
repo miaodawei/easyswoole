@@ -8,6 +8,6 @@ class Test extends Base
 {
     public function ttt()
     {
-        $this->writeJson(200, [], 'ok');
+        $this->writeJson(200, [], 'ok1sss');
     }
 }
