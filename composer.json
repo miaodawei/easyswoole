@@ -1,7 +1,8 @@
 {
     "require": {
         "easyswoole/easyswoole": "3.x",
-        "easyswoole/rpc": "4.x"
+        "easyswoole/rpc": "4.x",
+        "easyswoole/redis": "^1.1"
     },
     "autoload": {
         "psr-4": {
