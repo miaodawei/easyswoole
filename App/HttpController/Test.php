@@ -11,6 +11,10 @@ class Test extends Base
 {
     public function ttt()
     {
+        while(true) {
+            sleep(1);
+            echo 'test'.PHP_EOL;
+        }
         $this->writeJson(200, [], 'ok1sss');
     }
 
